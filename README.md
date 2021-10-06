@@ -5,18 +5,18 @@ I'm an enthusiastic teammate and a patient communicator. I have a near-compulsiv
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jordan-bohmbach&count_private=true&theme=tokyonight&showicons=true)]()
 
 My skills are:
-JavaScript
-Python
-React
-Redux
-PostgreSQL
-Node.js
-CSS
-HTML
-Docker
-SQL
-Flask
-SQLAlchemy
-Git
-Pug
-Jinja
+- JavaScript
+- Python
+- React
+- Redux
+- PostgreSQL
+- Node.js
+- CSS
+- HTML
+- Docker
+- SQL
+- Flask
+- SQLAlchemy
+- Git
+- Pug
+- Jinja
