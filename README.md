@@ -2,8 +2,6 @@ I am an Engineering industry veteran, now building software for the digital worl
 
 I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Python & JavaScript, I also have experience with C & C#.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jordan-bohmbach&count_private=true&theme=tokyonight&showicons=true)]()
-
 My skills are:
 - JavaScript
 - Python
